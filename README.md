@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <h1>Hi there, I'm Roberth Oliveros 👋</h1>
+  <h1>Hi there, I'm Roberth 👋</h1>
   <p><strong>Full-Stack & AI Developer</strong> | Building impactful web applications & intelligent tools</p>
   
   <p>
@@ -74,5 +74,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by Roberth Oliveros</sub>
+  <sub>Designed with ❤️ by Roberth</sub>
 </div>
